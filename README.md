@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**tiagosilva2020/tiagosilva2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ ## Total visits: 👀 <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/tiagosilva2020/count.svg" />
+ </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
