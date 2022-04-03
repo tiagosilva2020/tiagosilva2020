@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosilva2020&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- ## Total visits: 👀 <br>
+ ## Total visits: 👀👋😄.Be Welcome <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/tiagosilva2020/count.svg" />
  </p>
