@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/tiagosilva2020">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosilva2020&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=tiagosilva2020&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosilva2020&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </div>
  
  ## Total visits: 👀👋😄.Be Welcome <br>
@@ -11,7 +12,7 @@
  </p>
 
 <br>
-### Languages and Tools :
+## Languages and Tools :
   <div style="display: inline_block">
     <br>
   <img align="center" alt="tiagosilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
